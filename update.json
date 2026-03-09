@@ -1,7 +1,7 @@
 {
     "version_code": "2",
     "version_name": "1.1",
-    "update_message": "Current version is up to date.",
-    "download_url": "https://your-aptoide-link.com/app",
+    "update_message": "New features added!",
+    "download_url": "https://your-aptoide-link.com",
     "force_update": "false"
 }
